@@ -1,0 +1,148 @@
+---
+repo: josephmisiti/awesome-machine-learning
+readme_filename: josephmisiti_awesome-machine-learning_README.md
+stars: 68687
+forks: 14974
+watchers: 68687
+contributors_count: 443
+license: NOASSERTION
+Header 1: Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/)
+Header 2: Table of Contents
+Header 3: Frameworks and Libraries
+---
+
+
+- Awesome Machine Learning ![Awesome](#awesome-machine-learning-)
+- Table of Contents
+- Frameworks and Libraries
+- Tools
+- APL
+- General-Purpose Machine Learning
+- C
+- General-Purpose Machine Learning
+- Computer Vision
+- C++
+- Computer Vision
+- General-Purpose Machine Learning
+- Natural Language Processing
+- Speech Recognition
+- Sequence Analysis
+- Gesture Detection
+- Reinforcement Learning
+- Common Lisp
+- General-Purpose Machine Learning
+- Clojure
+- Natural Language Processing
+- General-Purpose Machine Learning
+- Deep Learning
+- Data Analysis
+- Data Visualization
+- Interop
+- Misc
+- Extra
+- Crystal
+- General-Purpose Machine Learning
+- Elixir
+- General-Purpose Machine Learning
+- Natural Language Processing
+- Erlang
+- General-Purpose Machine Learning
+- Fortran
+- General-Purpose Machine Learning
+- Data Analysis / Data Visualization
+- Go
+- Natural Language Processing
+- General-Purpose Machine Learning
+- Spatial analysis and geometry
+- Data Analysis / Data Visualization
+- Computer vision
+- Reinforcement learning
+- Haskell
+- General-Purpose Machine Learning
+- Java
+- Natural Language Processing
+- General-Purpose Machine Learning
+- Speech Recognition
+- Data Analysis / Data Visualization
+- Deep Learning
+- Javascript
+- Natural Language Processing
+- Data Analysis / Data Visualization
+- General-Purpose Machine Learning
+- Misc
+- Demos and Scripts
+- Julia
+- General-Purpose Machine Learning
+- Natural Language Processing
+- Data Analysis / Data Visualization
+- Misc Stuff / Presentations
+- Kotlin
+- Deep Learning
+- Lua
+- General-Purpose Machine Learning
+- Demos and Scripts
+- Matlab
+- Computer Vision
+- Natural Language Processing
+- General-Purpose Machine Learning
+- Data Analysis / Data Visualization
+- .NET
+- Computer Vision
+- Natural Language Processing
+- General-Purpose Machine Learning
+- Data Analysis / Data Visualization
+- Objective C
+- General-Purpose Machine Learning
+- OCaml
+- General-Purpose Machine Learning
+- OpenCV
+- Computer Vision
+- Text-Detection
+- Perl
+- Data Analysis / Data Visualization
+- General-Purpose Machine Learning
+- Perl 6
+- Data Analysis / Data Visualization
+- General-Purpose Machine Learning
+- PHP
+- Natural Language Processing
+- General-Purpose Machine Learning
+- Python
+- Computer Vision
+- Natural Language Processing
+- General-Purpose Machine Learning
+- Data Analysis / Data Visualization
+- Misc Scripts / iPython Notebooks / Codebases
+- Neural Networks
+- Survival Analysis
+- Federated Learning
+- Kaggle Competition Source Code
+- Reinforcement Learning
+- Speech Recognition
+- Ruby
+- Natural Language Processing
+- General-Purpose Machine Learning
+- Data Analysis / Data Visualization
+- Misc
+- Rust
+- General-Purpose Machine Learning
+- Deep Learning
+- Natural Language Processing
+- R
+- General-Purpose Machine Learning
+- Data Analysis / Data Visualization
+- SAS
+- General-Purpose Machine Learning
+- Data Analysis / Data Visualization
+- Natural Language Processing
+- Demos and Scripts
+- Scala
+- Natural Language Processing
+- Data Analysis / Data Visualization
+- General-Purpose Machine Learning
+- Scheme
+- Neural Networks
+- Swift
+- General-Purpose Machine Learning
+- TensorFlow
+- General-Purpose Machine Learning

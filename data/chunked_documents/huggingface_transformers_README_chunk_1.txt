@@ -1,9 +1,9 @@
 ---
 repo: huggingface/transformers
 readme_filename: huggingface_transformers_README.md
-stars: 146142
+stars: 146147
 forks: 29471
-watchers: 146142
+watchers: 146147
 contributors_count: 436
 license: Apache-2.0
 ---

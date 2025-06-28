@@ -15,7 +15,7 @@
     },
     "search_settings": {
       "default_k_neighbors": 5,
-      "max_context_length": 5000 
+      "max_context_length": 40000 
     },
     "application": {
       "app_name": "agent",
