@@ -1,0 +1,10 @@
+faiss-cpu
+Flask
+flask-cors
+fsspec
+numpy
+PyGithub
+requests
+langchain
+google-generativeai
+gunicorn

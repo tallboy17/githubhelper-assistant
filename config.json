@@ -1,0 +1,25 @@
+{
+    "api_settings": {
+      "gemini_api_key_env_var": "GEMINI_API_KEY",
+      "gemini_embedding_model": "models/embedding-001",
+      "gemini_llm_model": "gemini-2.0-flash"  
+    },
+    "document_loading": {
+      "documents_folder": "data/chunked_documents",
+      "allowed_file_extensions": [".txt", ".md"]
+    },
+    "faiss_index_settings": {
+      "faiss_index_type": "IndexFlatL2",
+      "index_file_name": "data/indexes/index.faiss",
+      "mapping_file_name": "data/indexes/faiss_id_to_doc_id_map.json"
+    },
+    "search_settings": {
+      "default_k_neighbors": 5,
+      "max_context_length": 5000 
+    },
+    "application": {
+      "app_name": "agent",
+      "prompt_template_file": "prompt_template.txt",
+      "enable_logging": true 
+    }
+  }

@@ -1,0 +1,102 @@
+---
+repo: vinta/awesome-python
+readme_filename: vinta_awesome-python_README.md
+stars: 248053
+forks: 25865
+watchers: 248053
+contributors_count: 368
+license: NOASSERTION
+Header 1: Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+---
+An opinionated list of awesome Python frameworks, libraries, software and resources.  
+Inspired by awesome-php.  
+- Awesome Python
+- Admin Panels
+- Algorithms and Design Patterns
+- ASGI Servers
+- Asynchronous Programming
+- Audio
+- Authentication
+- Build Tools
+- Built-in Classes Enhancement
+- Caching
+- ChatOps Tools
+- CMS
+- Code Analysis
+- Command-line Interface Development
+- Command-line Tools
+- Computer Vision
+- Configuration Files
+- Cryptography
+- Data Analysis
+- Data Validation
+- Data Visualization
+- Database Drivers
+- Database
+- Date and Time
+- Debugging Tools
+- Deep Learning
+- DevOps Tools
+- Distributed Computing
+- Distribution
+- Documentation
+- Downloader
+- Editor Plugins and IDEs
+- Email
+- Environment Management
+- File Manipulation
+- Functional Programming
+- Game Development
+- Geolocation
+- GUI Development
+- Hardware
+- HTML Manipulation
+- HTTP Clients
+- Image Processing
+- Implementations
+- Interactive Interpreter
+- Internationalization
+- Job Scheduler
+- Logging
+- Machine Learning
+- Miscellaneous
+- Natural Language Processing
+- Network Virtualization
+- News Feed
+- ORM
+- Package Management
+- Package Repositories
+- Penetration testing
+- Permissions
+- Processes
+- Recommender Systems
+- Refactoring
+- RESTful API
+- Robotics
+- RPC Servers
+- Science
+- Search
+- Serialization
+- Serverless Frameworks
+- Shell
+- Specific Formats Processing
+- Static Site Generator
+- Tagging
+- Task Queues
+- Template Engine
+- Testing
+- Text Processing
+- Third-party APIs
+- URL Manipulation
+- Video
+- Web Asset Management
+- Web Content Extracting
+- Web Crawling
+- Web Frameworks
+- WebSocket
+- WSGI Servers
+- Resources
+- Newsletters
+- Podcasts
+- Contributing  
+---

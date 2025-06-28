@@ -1,0 +1,16 @@
+---
+repo: vinta/awesome-python
+readme_filename: vinta_awesome-python_README.md
+stars: 248053
+forks: 25865
+watchers: 248053
+contributors_count: 368
+license: NOASSERTION
+Header 1: Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Header 2: Hardware
+---
+*Libraries for programming with hardware.*  
+* keyboard - Hook and simulate global keyboard events on Windows and Linux.
+* mouse - Hook and simulate global mouse events on Windows and Linux.
+* pynput - A library to control and monitor input devices.
+* scapy - A brilliant packet manipulation library.
